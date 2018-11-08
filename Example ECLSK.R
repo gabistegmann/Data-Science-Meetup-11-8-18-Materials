@@ -2,7 +2,7 @@
 # https://nces.ed.gov/ecls/kindergarten.asp
 
 
-DATA = read.table("/Users/kjgrimm/Google Drive/Personal/Presentations/Data Science 2018.10.25/Materials/ECLSK.dat", 
+DATA = read.table("/Users/.../ECLSK.dat", 
                   header = TRUE)
 
 # Math scores measured in 8th grade.
